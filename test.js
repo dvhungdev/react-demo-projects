@@ -1,10 +1,16 @@
-<defs id="SHAPE34_defs"><linearGradient id="SHAPE34_desktop_gradient" gradientTransform="rotate(0)"><stop offset="0%" stop-color="#00dbde"></stop><stop offset="100%" stop-color="#fc00ff"></stop></linearGradient></defs>
-  
-<defs id="SHAPE34_defs"><radialGradient id="SHAPE34_desktop_gradient" gradientTransform="rotate(0)"><stop offset="0%" stop-color="#00dbde"></stop><stop offset="100%" stop-color="#fc00ff"></stop></radialGradient></defs>  
-  
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 129.62 192.74" class="" fill="url(&quot;#SHAPE34_desktop_gradient&quot;)"><defs id="SHAPE34_defs"><linearGradient id="SHAPE34_desktop_gradient" gradientTransform="rotate(0)"><stop offset="0%" stop-color="#00dbde"></stop><stop offset="100%" stop-color="#fc00ff"></stop></linearGradient></defs><path d="M129.6,9.14A9.13,9.13,0,0,0,120.71,0V0H0V.09A9.11,9.11,0,0,1,8.27,9.14v183.6L69,147.53l60.67,45.21V9.14Z"></path></svg>
-    
-    
-#SHAPE34 svg:last-child {
-    fill: url(#SHAPE34_desktop_gradient);
-}
+<!-- AMIS aiMarketing Form Embed Code -->
+                <div class="aimarketing-form-embed-code">
+                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+                    <script env=testonline id="ladizone-form-renderer" src="https://testcdnamisapp.misa.vn/apps/aimarketing/form-editor/static/js/form-renderer.js"></script>
+                    <script render-for="eb663302-4c3d-495d-ba78-97d2598f995b">
+                    lzfr.renderExternalForm({formId: "eb663302-4c3d-495d-ba78-97d2598f995b", tenantId: "3a73b72a-fe0c-44b2-8274-95f3bedd61b9", domainUnomi: "https://test.ladizone.com"});
+                    </script>
+                </div>
+             <!-- end AMIS aiMarketing Form Embed Code -->
+
+
+ https://testamis.misa.vn/wp_login/
+ test/12345678@Abc
+
+
+https://testamis.misa.vn/17223/ve-chan-dung-khach-hang/?preview_id=17223&preview_nonce=42a81fe72f&post_format=standard&_thumbnail_id=-1&preview=true
